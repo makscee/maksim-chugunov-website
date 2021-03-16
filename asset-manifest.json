@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/maksim-chugunov-website/static/css/main.65b18da4.chunk.css",
-    "main.js": "/maksim-chugunov-website/static/js/main.67666bdf.chunk.js",
-    "main.js.map": "/maksim-chugunov-website/static/js/main.67666bdf.chunk.js.map",
+    "main.js": "/maksim-chugunov-website/static/js/main.fe438154.chunk.js",
+    "main.js.map": "/maksim-chugunov-website/static/js/main.fe438154.chunk.js.map",
     "runtime-main.js": "/maksim-chugunov-website/static/js/runtime-main.54100d4a.js",
     "runtime-main.js.map": "/maksim-chugunov-website/static/js/runtime-main.54100d4a.js.map",
     "static/css/2.4c97ca4f.chunk.css": "/maksim-chugunov-website/static/css/2.4c97ca4f.chunk.css",
@@ -26,6 +26,6 @@
     "static/css/2.4c97ca4f.chunk.css",
     "static/js/2.dda72fec.chunk.js",
     "static/css/main.65b18da4.chunk.css",
-    "static/js/main.67666bdf.chunk.js"
+    "static/js/main.fe438154.chunk.js"
   ]
 }
