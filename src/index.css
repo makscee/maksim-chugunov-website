@@ -1,8 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Quantico');
 
-@font-face {
-  font-family: 'Quantico';
-  src: local('Quantico'), url(./assets/fonts/Quantico.ttf) format('ttf');
-}
 body {
   margin: 0;
   -webkit-font-smoothing: antialiased;

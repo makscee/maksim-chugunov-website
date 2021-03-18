@@ -11,6 +11,7 @@ import duamoCard from './assets/duamo_card.png'
 import sfCard from './assets/squarefast_card.png'
 import { ContactBlock } from './ContactBlock';
 
+
 const openInNewTab = (url) => {
   const newWindow = window.open(url, '_blank', 'noopener,noreferrer')
   if (newWindow) newWindow.opener = null
