@@ -51,6 +51,10 @@ class App extends Component {
                   text={`duamo is a minimalistic puzzle game\nwhere you have to fit shapes into a square`}
                   title="duamo"
                   onClickPlay={() => openInNewTab('https://maks-c.itch.io/prt2')}
+                  onClickVideo={() => this.setState({ showDuamoEmbed: !this.state.showDuamoEmbed })}
+                  embedId="NNB6b20fcyk"
+                  showEmbed={this.state.showDuamoEmbed}
+                  videoBtnEnabled={true}
                 />
                 <GameCard
                   img={sfCard}
