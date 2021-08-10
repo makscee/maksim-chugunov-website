@@ -50,7 +50,7 @@ class App extends Component {
                   img={duamoCard}
                   text={`duamo is a minimalistic puzzle game\nwhere you have to fit shapes into a square`}
                   title="duamo"
-                  onClickPlay={() => openInNewTab('https://maks-c.itch.io/prt2')}
+                  onClickPlay={() => openInNewTab('https://store.steampowered.com/app/1690290/duamo/')}
                   onClickVideo={() => this.setState({ showDuamoEmbed: !this.state.showDuamoEmbed })}
                   embedId="NNB6b20fcyk"
                   showEmbed={this.state.showDuamoEmbed}
