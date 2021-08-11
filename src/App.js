@@ -52,7 +52,7 @@ class App extends Component {
                   title="duamo"
                   onClickPlay={() => openInNewTab('https://store.steampowered.com/app/1690290/duamo/')}
                   onClickVideo={() => this.setState({ showDuamoEmbed: !this.state.showDuamoEmbed })}
-                  embedId="NNB6b20fcyk"
+                  embedId="Tj1qnIcIOw0"
                   showEmbed={this.state.showDuamoEmbed}
                   videoBtnEnabled={true}
                 />
